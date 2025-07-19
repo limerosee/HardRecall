@@ -1,6 +1,6 @@
 <img width="980" height="980" alt="HardRecall" src="https://github.com/user-attachments/assets/40cd8655-ff0b-4374-9492-a18833c5a1ba" />
 
-reimagined and simplified RLCraft-style build based on RLCraft v2.9.3. A wild and open world, realized with BoP (Biomes of Plenty), filled with aggressive enemies from IaF (Ice and Fire) and Lycanites Mobs. In your own survival, you have to survive using a medieval rpg style tool usage system and give up on just breaking trees.
+Reimagined and simplified RLCraft-style build based on RLCraft v2.9.3. A wild and open world, realized with BoP (Biomes of Plenty), filled with aggressive enemies from IaF (Ice and Fire) and Lycanites Mobs. In your own survival, you have to survive using a medieval rpg style tool usage system and give up on just breaking trees.
 
 # Curseforge link
 https://www.curseforge.com/minecraft/modpacks/hardrecall
