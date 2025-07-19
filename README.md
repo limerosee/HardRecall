@@ -11,7 +11,7 @@ https://github.com/limerosee/HardRecall/issues
 # Support me
 https://www.donationalerts.com/r/limeerosee
 
-# Actual info about other project
+# Actual info about other projects
 
 https://t.me/limerosex
 
