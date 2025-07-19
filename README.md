@@ -8,3 +8,7 @@ https://github.com/limerosee/HardRecall/issues
 
 # Support me
 https://www.donationalerts.com/r/limeerosee
+
+# Actual info about other project
+
+https://t.me/limerosex
